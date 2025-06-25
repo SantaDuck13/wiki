@@ -61,6 +61,10 @@ export default {
             },
           ],
         },
+        {
+          text: "WAPI Lore Journal",
+          link: "/developers/wapi-journal",
+        },
       ],
     },
   ],
